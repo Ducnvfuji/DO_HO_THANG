@@ -8,10 +8,11 @@
   "theme_color": "#00897b",
   "icons": [
     {
-      "src": "/DIM.png",
+      "src": "DIM.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
     }
   ]
 }
+
